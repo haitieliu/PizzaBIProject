@@ -13,3 +13,6 @@ all csv file are raw data
 Code:
 All code is pasted into MYSQL file
 
+View Final Project In LookerStudio:
+https://lookerstudio.google.com/reporting/e0364512-7349-4549-8bfe-62c96637599a
+
