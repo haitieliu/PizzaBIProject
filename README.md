@@ -4,6 +4,14 @@
 Creating dashboards for a simulated pizza store, helping potential client to gain business insights through data visualization.
 
 
+## Authors
+
+- [@haitieliu](https://www.github.com/octokatherine)
+
+- [An exaple of this project can be accessed here: https://haitieliu.github.io/PizzaBI-Project.html](https://haitieliu.github.io/PizzaBI-Project.html)
+
+
+
 ## Objectives
 
 Creating three business dashboard showcasing
@@ -11,13 +19,6 @@ Creating three business dashboard showcasing
 - Order KPI, including total sales, average order value, sales trends, delivery status and geo location. (Order Dashboard)
 - Inventory status, indicating how many percentage is each ingredient left in the store, which ingredient needs to be restocked immidately. (Inventory Dashboard)
 - Staff cost, overall staff schedule and cost of each staff during each shift. (Staff Dashboard)
-
-
-## Authors
-
-- [@haitieliu](https://www.github.com/octokatherine)
-
-- [An exaple of this project can be accessed here: https://haitieliu.github.io/PizzaBI-Project.html](https://haitieliu.github.io/PizzaBI-Project.html)
 
 
 ## Installation
