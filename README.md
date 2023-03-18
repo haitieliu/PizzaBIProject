@@ -17,6 +17,8 @@ Creating three business dashboard showcasing
 
 - [@haitieliu](https://www.github.com/octokatherine)
 
+- [An exaple of this project can be accessed here: https://haitieliu.github.io/PizzaBI-Project.html](https://haitieliu.github.io/PizzaBI-Project.html)
+
 
 ## Installation
 
