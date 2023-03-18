@@ -16,9 +16,9 @@ Creating dashboards for a simulated pizza store, helping potential client to gai
 
 Creating three business dashboard showcasing
 
-- Order KPI, including total sales, average order value, sales trends, delivery status and geo location. (Order Dashboard)
-- Inventory status, indicating how many percentage is each ingredient left in the store, which ingredient needs to be restocked immidately. (Inventory Dashboard)
-- Staff cost, overall staff schedule and cost of each staff during each shift. (Staff Dashboard)
+- Creating order KPI, including total sales, average order value, sales trends, delivery status and geo location. (Order Dashboard)
+- Creating inventory status, indicating how many percentage is left in each ingredient in the store, notating ingredient needs to be restocked immidately. (Inventory Dashboard)
+- Creating staff cost, overall staff schedule and cost of each staff during each shift. (Staff Dashboard)
 
 
 ## Installation
